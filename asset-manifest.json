@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/codecamp/static/js/main.c6a8686f.js",
+    "main.js": "/codecamp/static/js/main.05bfb681.js",
     "index.html": "/codecamp/index.html",
-    "main.c6a8686f.js.map": "/codecamp/static/js/main.c6a8686f.js.map"
+    "main.05bfb681.js.map": "/codecamp/static/js/main.05bfb681.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6a8686f.js"
+    "static/js/main.05bfb681.js"
   ]
 }
